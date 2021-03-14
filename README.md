@@ -1,2 +1,2 @@
 # Images
-Repository for md images
+Repository for my projects/demos README.md images
